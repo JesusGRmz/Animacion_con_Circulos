@@ -1,10 +1,4 @@
 # Animacion_con_Circulos
-*/
-Programa en java, donde se dibujan 5 círculos con colores y desplazamientos aleatorios en una ventana 
-
-Clase circulo, en esta clase se encuentra toda la estructura de nuestra figura, asi como los posibles desplazamientos que puede tener
-*/
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.util.Random;
